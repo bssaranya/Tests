@@ -1,0 +1,22 @@
+{
+  "signUp": [
+    {
+      "firstName": "gfh",
+      "lastName": "hhgg",
+      "email": "ad@dd.vv",
+      "password": "qqqq",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "firstName": "kml",
+      "lastName": "hgjhk",
+      "email": "a@a.com",
+      "password": "U2FsdGVkX1/BD1aB8V1Wui98qe0W5m1l+O8izUruvfY=",
+      "id": 3
+    }
+  ],
+  "userDetail": []
+}
